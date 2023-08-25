@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T20:49:06.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uWD-iEbJyCBdFt_E04Ou" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T20:50:32.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Si57c27y-c8OB6ZkEwcr" version="21.6.9" type="github">
   <diagram id="HxZxj3ZdWUPKy6T3NOHI" name="Page-1">
     <mxGraphModel dx="1388" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,6 +101,18 @@
         </mxCell>
         <mxCell id="CmFJDcG_NYRdd-gzmuAk-3" value="product-db" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="y8UQqW0oQCh7q16VOE6K-9">
           <mxGeometry x="90" y="17" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="CmFJDcG_NYRdd-gzmuAk-5" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="y8UQqW0oQCh7q16VOE6K-9">
+          <mxGeometry x="370" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmFJDcG_NYRdd-gzmuAk-6" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="y8UQqW0oQCh7q16VOE6K-9">
+          <mxGeometry x="340" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmFJDcG_NYRdd-gzmuAk-9" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="y8UQqW0oQCh7q16VOE6K-9">
+          <mxGeometry x="450" y="51" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmFJDcG_NYRdd-gzmuAk-10" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="y8UQqW0oQCh7q16VOE6K-9">
+          <mxGeometry x="440" y="304" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y8UQqW0oQCh7q16VOE6K-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="y8UQqW0oQCh7q16VOE6K-6" vertex="1">
           <mxGeometry x="200" y="264" width="80" height="80" as="geometry" />
